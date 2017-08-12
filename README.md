@@ -1,6 +1,6 @@
 # mi-repositorio.
 
-repositorio
+Editando el archivo desde mi locaaaal OMG!!!
 se modifico el archivo :O
 :)
 :3
